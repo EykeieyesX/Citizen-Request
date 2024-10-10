@@ -20,7 +20,7 @@ Other Tools: Ninox (for database), aWebServer (for local development)
 Installation and Setup
 
 1. Clone the repository from GitHub:
-    git clone https://github.com/YOUR_USERNAME/citizen-request-management.git
+    git clone [https://github.com/YOUR_USERNAME/citizen-request-management.git](https://github.com/EykeieyesX/Citizen-Request.git]
 
 2. Navigate to the project directory:
     cd citizen-request-management
